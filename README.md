@@ -20,7 +20,7 @@
 We basically have to develop a visualization for describing and understanding our audience. And here our audience are the prospective students for Santa Clara university and the recruiters. 
 So, first step is to look at the data as in our case we don’t have a lot of data so the data we have:
 -	The first data we have is the ranking of colleges.
--	The second data is of the curriculum for MSIS.
+-	The second data is of the curriculum for MSIS here the curriculum for the top 2 universities are compared, and as we can see the curriculum for SCU offers both technical and business knowledge where as for the other university that is University of San Fransisco offers courses for business side and hardly any technical course.
 -	The third data is for the students where they get jobs after graduating.
 -	The fourth data set Is the salaries for the graduates of Santa Clara university.
 -	The fifth data is the student to teacher ratio. 
