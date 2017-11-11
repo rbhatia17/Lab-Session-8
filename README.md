@@ -37,3 +37,7 @@ The five metrics are:
 
 # Tableau Link:
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/FactSheetforMSISProgramatSantaClaraUniversity/Dashboard3?publish=yes
+
+# References
+https://www.usfca.edu/management/graduate-programs/information-systems/course-descriptions
+https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/
