@@ -1,4 +1,4 @@
-# Lab-Session-8
+# Fact Sheet for MSIS Program at Santa Clara University
 
 # Claim: Santa Clara University is the number one university in Bay Area. 
 
@@ -35,4 +35,5 @@ The five metrics are:
 4.	The fourth is the salaries they get once they graduate and how it tends to increase over years, it’s important for the prospective as well as recruiters. 
 5.	The fifth metric is the teacher to student ratio which is not a very important metric to the audience. 
 
-
+# Tableau Link:
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/FactSheetforMSISProgramatSantaClaraUniversity/Dashboard3?publish=yes
